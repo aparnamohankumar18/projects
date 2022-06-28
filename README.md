@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ammu18
+- 👋 Hi, I’m @AparnaMohankumar
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning to use Python and Google Colab
-- 💞️ I’m looking to collaborate on analysis
+- 🌱 I’m using JupyterNotebook, Rstudio, and Google Colab for data cleaning and anlayzing data to create solutions for current business problems.
+-💞️ I’m looking to collaborate on analysis
 - 📫 How to reach me...
 
 <!---
