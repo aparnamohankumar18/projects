@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m using JupyterNotebook, Rstudio, and Google Colab for data cleaning and anlayzing data to create solutions for current business problems.
 -💞️ I’m looking to collaborate on analysis
-- 📫 How to reach me... mailto:aparnamohankumar18@gmail.com
+- 📫 How to reach me... mailto: aparnamohankumar18@gmail.com
 - 
 
 <!---
